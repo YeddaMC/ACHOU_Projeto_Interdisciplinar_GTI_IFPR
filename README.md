@@ -22,7 +22,7 @@
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-📁  ENTREGAS 2026.1
+📁  ENTREGAS_Projeto Interdisciplinar II _ 2026.1
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 MVP
