@@ -16,7 +16,7 @@
 </table>
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-[Apresentação V WIPEX 2026.2](https://drive.google.com/drive/folders/17fqB84d1Aqk22vbSbUNo6WWUdQh6Jhdn)
+[Apresentação V WIPEX 2026.2](https://drive.google.com/file/d/1SC102d8Rr_N4hteK3werQG8mv3-bLhVe/view?usp=sharing)
 
 📁 <a href="https://github.com/YeddaMC/ACHOU-_Projeto_III">2026.2_Projeto Interdisciplinar III</a>
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
